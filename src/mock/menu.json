@@ -1,0 +1,13 @@
+[
+  {"id":"2","name":"代码质量榜","icon":"code-o","route":"/codeList"},
+  {"id":"4","name":"上新质量榜","icon":"bars","route":"/newList"},
+   {"id":"7","name":"综合榜单","icon":"profile","route":"/totalList"},
+  {"id":"3","name":"评级报告","icon":"pushpin"},
+  {"id":"31","name":"旧评级报告","bpid": "3","mpid": "3","icon":"tag-o","route":"/ratingReport"},
+    {"id":"32","name":"新评级报告","bpid": "3","mpid": "3","icon":"tag","route":"/newRatingReport"},
+  {"id": "5","name": "项目详情","icon": "edit"},
+  {"id":"51","name":"基本信息","bpid": "5","mpid": "5","icon": "profile","route":"/baseInfo"},
+  {"id":"6","name":"轮播图","icon":"picture","route":"/sowingMap"},
+  {"id":"1","name":"KYC","icon":"dashboard","route":"/kyc"},
+  {"id":"8","name":"上传文件","icon":"file-add","route":"/fileUpload"}
+]
